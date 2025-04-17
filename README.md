@@ -1,1 +1,1 @@
-# Medical-Assistant
+# ChatGPT Model
